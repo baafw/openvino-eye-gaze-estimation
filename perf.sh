@@ -25,3 +25,34 @@ python3 src/main.py -fdm models/intel/face-detection-adas-binary-0001/FP32-INT1/
         --print --no_move
 
 
+
+
+.
+├── bin
+│   ├── demo.mp4
+│   └── demo.png
+├── gaze-app.log
+├── models
+├── perf.sh
+├── README.md
+├── requirements.txt
+└── src
+    ├── face_detection.py
+    ├── facial_landmarks_detection.py
+    ├── gaze_estimation.py
+    ├── head_pose_estimation.py
+    ├── inference.py
+    ├── input_feeder.py
+    ├── main.py
+    ├── model.py
+    ├── mouse_controller.py
+    ├── __pycache__
+    │   ├── face_detection.cpython-36.pyc
+    │   ├── facial_landmarks_detection.cpython-36.pyc
+    │   ├── gaze_estimation.cpython-36.pyc
+    │   ├── head_pose_estimation.cpython-36.pyc
+    │   ├── inference.cpython-36.pyc
+    │   ├── input_feeder.cpython-36.pyc
+    │   └── mouse_controller.cpython-36.pyc
+    └── test.py
+

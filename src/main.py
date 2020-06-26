@@ -62,7 +62,7 @@ def build_argparser():
     parser.add_argument("-gem", "--gemodel", required=True, type=str,
                         help="Path to a gaze estimation xml file with a trained model.")
     parser.add_argument("-i", "--input", required=True, type=str,
-                        help="Path to image or video file")
+                        help="Path video file or CAM to use camera")
     parser.add_argument("-l", "--cpu_extension", required=False, type=str,
                         default=None,
                         help="MKLDNN (CPU)-targeted custom layers."
