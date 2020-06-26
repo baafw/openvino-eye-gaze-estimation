@@ -1,0 +1,36 @@
+2020-06-26 17:18:48,641 [INFO] ============== Models Load time ===============
+2020-06-26 17:18:48,853 [INFO] Face Detection Model: 212.0ms
+2020-06-26 17:18:48,957 [INFO] Facial Landmarks Detection Model: 103.3ms
+2020-06-26 17:18:49,078 [INFO] Headpose Estimation Model: 120.4ms
+2020-06-26 17:18:49,226 [INFO] Gaze Estimation Model: 148.2ms
+2020-06-26 17:18:49,227 [INFO] ==============  End =====================
+2020-06-26 17:19:37,561 [INFO] ============== Models Inference time ===============
+2020-06-26 17:19:37,562 [INFO] Face Detection:8.5ms
+2020-06-26 17:19:37,562 [INFO] Facial Landmarks Detection:0.5ms
+2020-06-26 17:19:37,562 [INFO] Headpose Estimation:1.1ms
+2020-06-26 17:19:37,563 [INFO] Gaze Estimation:1.3ms
+2020-06-26 17:19:37,858 [INFO] ============== End ===============================
+2020-06-26 17:19:38,395 [INFO] ============== Models Load time ===============
+2020-06-26 17:19:38,631 [INFO] Face Detection Model: 235.4ms
+2020-06-26 17:19:38,884 [INFO] Facial Landmarks Detection Model: 252.2ms
+2020-06-26 17:19:39,142 [INFO] Headpose Estimation Model: 257.6ms
+2020-06-26 17:19:39,393 [INFO] Gaze Estimation Model: 250.4ms
+2020-06-26 17:19:39,393 [INFO] ==============  End =====================
+2020-06-26 17:20:28,989 [INFO] ============== Models Inference time ===============
+2020-06-26 17:20:28,990 [INFO] Face Detection:9.0ms
+2020-06-26 17:20:28,990 [INFO] Facial Landmarks Detection:0.6ms
+2020-06-26 17:20:28,990 [INFO] Headpose Estimation:1.2ms
+2020-06-26 17:20:28,990 [INFO] Gaze Estimation:1.4ms
+2020-06-26 17:20:28,991 [INFO] ============== End ===============================
+2020-06-26 17:20:29,518 [INFO] ============== Models Load time ===============
+2020-06-26 17:20:29,752 [INFO] Face Detection Model: 233.9ms
+2020-06-26 17:20:29,926 [INFO] Facial Landmarks Detection Model: 173.6ms
+2020-06-26 17:20:30,337 [INFO] Headpose Estimation Model: 410.3ms
+2020-06-26 17:20:30,801 [INFO] Gaze Estimation Model: 463.3ms
+2020-06-26 17:20:30,801 [INFO] ==============  End =====================
+2020-06-26 17:21:19,011 [INFO] ============== Models Inference time ===============
+2020-06-26 17:21:19,011 [INFO] Face Detection:8.6ms
+2020-06-26 17:21:19,012 [INFO] Facial Landmarks Detection:0.5ms
+2020-06-26 17:21:19,012 [INFO] Headpose Estimation:0.9ms
+2020-06-26 17:21:19,012 [INFO] Gaze Estimation:1.0ms
+2020-06-26 17:21:19,013 [INFO] ============== End ===============================
