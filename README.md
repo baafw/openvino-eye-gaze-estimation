@@ -1,6 +1,6 @@
 # Computer Pointer Controller
 
-*TODO:* Write a short introduction to your project
+Control mouse cursor by gaze estimation using OpenVino models 
 
 | Details            |              |
 |-----------------------|---------------|
